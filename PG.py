@@ -44,8 +44,8 @@ DTYPE = torch.bfloat16
 DEFAULT_REQUESTS_PER_SLOT = 50
 
 # Reward weights (α1, α2) exist in paper :contentReference[oaicite:9]{index=9}
-DEFAULT_ALPHA1 = 0.0001
-DEFAULT_ALPHA2 = 0.01
+DEFAULT_ALPHA1 = 0.00036
+DEFAULT_ALPHA2 = 0.027
 
 
 # -----------------------------
